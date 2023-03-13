@@ -5,7 +5,7 @@ Anders Ryssdal and Victor Aasvær
 
 Importing and storing parameters and data for the models
 """
-from Flex_zones import Zones,Heuristic
+from Flex_Zones import Zones,Heuristic
 from Flex_System import System,Line,Node
 from Flex_Participants import Participants,Participant
 from Flex_Bids import Bids,Bid

@@ -13,7 +13,7 @@ import math
 import matplotlib.pyplot as plt
 from Flex_supportFunctions import LoadFlow
 from Flex_Bids import Bids
-from Flex_zones import Zones
+from Flex_Zones import Zones
 
 
 
