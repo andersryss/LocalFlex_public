@@ -17,7 +17,6 @@ import pandas as pd
 import numpy as np
 from geopy import distance
 
-
 class Data:
     def __init__(self,days):
         
