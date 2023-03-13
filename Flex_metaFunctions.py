@@ -5,7 +5,7 @@ Anders Ryssdal and Victor Aasvær
 
 Functions used to execute the total model system
 """
-from Flex_data import Data
+from Flex_Data import Data
 from Flex_supportFunctions import Save,Load,HiddenPrints,timeString
 from Flex_nodeClearing import NodeClearing
 from Flex_zoneClearing import ZoneClearing
